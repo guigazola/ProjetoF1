@@ -1,0 +1,35 @@
+.btn-group button {
+  background-color: #000000; /* Green background */
+  border: 1px solid red; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+ h3{
+ 
+ color: red;
+ 
+ 
+ }
+.btn-group button:not(:last-child) {
+  border-bottom: none; 
+}
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+	.center2 {
+  display: block;
+  margin-left: 30%;
+  margin-right: auto;
+  width: 70%;
+}
+
+.btn-group button:hover {
+  background-color: #3e8e41;
+}

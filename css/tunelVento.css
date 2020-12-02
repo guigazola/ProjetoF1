@@ -1,0 +1,87 @@
+	
+	
+	
+	
+		
+
+	
+	
+	.centero {
+top: 435px;
+  margin-left: 30%;
+  margin-right: 40%;
+  width: 0%;
+  white-space: nowrap;
+}
+
+	.center {
+  
+  margin-left: 40%;
+  margin-right: auto;
+  width: 70%;
+}
+
+	.center2 {
+  
+  margin-left: 300px;
+  margin-right: -200px;
+  width: 70%;
+}
+
+divbox {
+position: absolute;
+ top: 500px; 
+ left: 400px;
+  display: block;
+  background-color:#CAEEEC;
+  width: 160px;
+  color: #CA3A0;
+  border: 5px #68E7E0;
+  padding: 20px;
+  margin: 5px;
+}
+
+
+	.button {
+  
+  margin-left: -400px;
+  margin-right: -200px;
+  width: 70%;
+}
+
+.velocidadeVento {
+  position: absolute;
+    
+   top: 435px;
+  right: 355px;
+
+  
+}
+
+.velocidadeaum{
+	position: static;
+		margin-top: 5px;
+	  margin-left: 200px;
+  margin-right: 100px;
+
+
+	 white-space: nowrap;
+	
+}
+
+.velocidadeaumV{
+	  margin-left: 500px;
+  margin-right: -500px;
+	margin-top: -20px;
+
+	 white-space: nowrap;
+	
+}
+.velocidade {
+  position: absolute;
+    
+   top: 415px;
+  right: 820px;
+
+  
+}

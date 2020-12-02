@@ -1,0 +1,120 @@
+
+ h1{
+ 
+ color: black;
+ 
+ 
+ }
+divbox {
+position: absolute;
+ top: 180px; 
+ left: 800px;
+  display: block;
+  background-color: #038489;
+  width: 40px;
+  color: white;
+  border: 5px ;
+  padding: 20px;
+  margin: 5px;
+}
+divbox2 {
+position: absolute;
+ top: 420px; 
+ left: 800px;
+  display: block;
+  background-color: #038489;
+  width: 40px;
+  color: white;
+  border: 5px ;
+  padding: 20px;
+  margin: 5px;
+}
+
+
+divbox3 {
+position: absolute;
+ top: 5px; 
+  right:300px;
+ display: block;
+  background-color: #038489;
+  width: 40px;
+  color: white;
+  border: 5px ;
+  padding: 20px;
+  margin: 5px;
+}
+
+divbox4 {
+position: absolute;
+ top: -250px; 
+ left: -5px;
+ right: 300px;
+  display: block;
+  background-color: #038489;
+  width: 40px;
+  color: white;
+  border: 5px ;
+  padding: 20px;
+  margin: 5px;
+}
+.traseiro-direito {
+  position: absolute;
+  top:160px;
+  left: 800px;
+  
+}
+.dianteiro-direito {
+  position: absolute;
+  top:400px;
+  left: 800px;
+  
+}
+.dianteiro-esquerdo {
+  position: absolute;
+    color: black;
+   top: -20px;
+  right: 280px;
+  white-space: nowrap;
+  
+}
+
+.traseiro-esquerdo{
+	  position: absolute;
+	  color: black;
+	  left: -20px;
+  top:  -270px;
+ right: 240px;
+ white-space: nowrap;
+	
+	
+	
+}
+.motor{
+	
+	margin-top: 100px;
+  margin-left: 600px;
+  margin-right: 10px;
+  width: 0%;
+	
+}
+.leitura{
+	  margin-left: 630px;
+  margin-right: 100px;
+  margin-top: 20px;
+	 white-space: nowrap;
+	
+}
+	.center {
+  
+  margin-left: 35%;
+  margin-right: auto;
+  width: 70%;
+}
+	.centero {
+  text-align: center;
+  color: black;
+  margin-left: 60%;
+  margin-right: 40%;
+  width: 0%;
+}
+

@@ -1,0 +1,48 @@
+	.center {
+margin-top: -42px;
+    margin-right: 400px;
+  margin-left: 760px;
+ 
+  width: 70%;
+
+}
+
+.rain{
+	
+	margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 400px;
+  
+	
+}
+
+
+.cloudy{
+	  float: right;
+	margin-top: -240px;
+  margin-left: 300px;
+  margin-right: 560px;
+  
+	
+}
+
+
+
+.msunny{
+	  float: right;
+	margin-top: -220px;
+  margin-left: 500px;
+  margin-right: 480px;
+  
+	
+}
+
+
+.sunny{
+	  float: right;
+	margin-top: -200px;
+  margin-left: 500px;
+  margin-right: 335px;
+  
+
+}

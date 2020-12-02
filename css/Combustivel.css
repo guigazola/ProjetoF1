@@ -1,0 +1,131 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 804px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 355px;
+  height: 355px;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 200px;
+  min-height: 162px;
+  height: auto;
+  margin: -248px 93px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 0 9px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 199px;
+  min-height: 178px;
+  height: auto;
+  margin: -170px auto 0 72px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -231px auto 0 24px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -38px 126px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -261px;
+    margin-right: 326px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 104px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-3 {
+    margin-left: 15px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 185px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 11px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 789px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -233px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 7px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 38px;
+  }
+}
