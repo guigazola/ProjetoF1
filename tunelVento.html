@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/tunelVento.css" rel="stylesheet" </link>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+<title>Sensor de temperatura do motor</title>
+</style>
+</head>
+<body style="background-color:white;">
+<div class="center">
+
+<h1>Teste de tunel de vento</h1>
+
+</div>
+<script>
+var velc=100;
+var velv=60;
+function FunctionA() {
+velc++
+        document.getElementById('inc').value = velc + ' KM/H';
+}
+function FunctionD() {
+velc--;
+document.getElementById('inc').value = velc+ ' KM/H';
+}
+function FunctionAV() {
+velv++;
+document.getElementById('dec').value = velv+ ' KM/H';
+}
+function FunctionDV() {
+velv--;
+document.getElementById('dec').value = velv+ ' KM/H';
+
+}
+
+</script>
+
+<div class="center2">
+<img src="img/wind.gif" alt="" width="900" height="350">
+</div>
+
+<div class="centero">
+
+
+
+
+<b><label for="inc">Velocidade do carro</label></b>
+<input type="text" id="inc" value="100 KM/H"></input>
+
+
+
+<b><label for="inc">Velocidade do vento</label></b>
+<input type="text" id="dec" value="60 KM/H"></input>
+	 
+    
+		
+
+
+<div class="velocidadeaum">
+<div class="btn-group">
+<button onclick="FunctionA()">+</button>
+<button onclick="FunctionD()">-</button>
+</div>
+</div>
+
+<div class="velocidadeaumV">
+<div class="btn-group">
+<button onclick="FunctionAV()">+</button>
+<button onclick="FunctionDV()">   -</button>
+</div>
+
+</div>
+<divbox>PROTOTIPO UXTZ-3374</divbox>
+
+	<div class="button">	<a href ="menu.html">    <button class="btn">Voltar</button></a></div>
+</body>
+</html>

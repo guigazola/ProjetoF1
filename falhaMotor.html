@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<link href="css/falha.css" rel="stylesheet" </link>
+		<script src="js/falha.js" type="text/javascript"></script>
+		<title>Detecção de Falhas no Motor</title>
+	</head>
+	<body>
+	
+	
+	
+		<h1 style="text-align:center">Detecção de Falhas no Motor</h1>
+
+		<div class="displayVolante">
+		<center><img src="img/falhaMotor.png" alt="" width="400" height="300"></center>
+		</div>	
+
+		<center><form action="/Detecção de falhas no motor" method="post">
+			<div>
+				<b><label for="estadoMotor">Estado do Motor</label></b>
+				
+			    </div>
+			    <div>
+				<input type="text" id="estadoMotor" />							
+			    </div>
+			    <div>
+				<b><label for="desgasteMotor">Desgaste do Motor</label></b>
+			   </div>
+			   <div>
+				<input type="text" id="desgasteMotor" />
+			   </div>
+			   <div>
+				<b><label for="probabilidadeFalha">Probabilidade de Falha</label></b>
+			   </div>
+			   <div>
+				<input type="text" id="probabilidadeFalha" />
+			   </div>
+  
+		</form></center>
+
+<div class="button"><button onclick="FunctionA()">Fazer Leitura</button></div>
+
+					<a href ="menu.html">    <button class="btn"><i class="fa fa-line-chart"></i>Voltar</button></a>
+
+	</body>
+</html>
